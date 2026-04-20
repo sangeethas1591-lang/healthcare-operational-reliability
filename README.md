@@ -8,7 +8,7 @@ This project establishes a data-driven framework to transform massive synthetic 
 
 <img width="578" height="323" alt="Healthcare Data Integrity and Operational Reliability" src="https://github.com/user-attachments/assets/c283a6ca-a606-4565-a394-063f291abbc7" />
 
-Healthcare Data Integrity and Operational Reliability
+
 🛠️ Technical Stack
 
 • Data Cleaning & Feature Engineering: Python (Google Colab)
